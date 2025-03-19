@@ -14,13 +14,6 @@ def about_me():
 ```
 
 
-### 🛠️ Tech Toolbox
-
-- **Languages:** Python, JavaScript
-- **Tools & Platforms:** Git, VS Code, Linux, Bash
-
----
-
 ### ⚡ Fun Facts
 
 - 💡 Deep thinker, fueled by curiosity (and coffee ☕).
@@ -32,9 +25,8 @@ def about_me():
 ### 🌱 Currently Exploring
 
 - 🚀 **Machine Learning** and its practical applications in **real world**.
-- 📊 **Finance** and its crossover with **science, tech and psychology**.
-- 🧩 Building efficient, clean, and reusable codebases.
-
+- 👀 **AGI** Research and llm's
+- 🧩 Got Started with Neuroscience and brain.
 
 
 
