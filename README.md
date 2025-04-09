@@ -35,10 +35,10 @@ def about_me():
 echo "Happy Coding! 🚀"
 ```
 
-Website : https://rtx09x.github.io/
-
 
 - 😄 Pronouns: He. Him
+
+- Website : https://rtx09x.github.io/
 
 <!---
 Rtx09x/Rtx09x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
