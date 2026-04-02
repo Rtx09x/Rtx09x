@@ -1,46 +1,46 @@
-[README.md](https://github.com/user-attachments/files/18401188/README.md)
-```
-print('Hello World')
-```
+# Rudra Tiwari
 
-```
-def about_me():
-    return {
-        "name": "Rudra",
-        "passion": ["Science", "Physics", "Coding", "Knowledge Creation"],
-        "mindset": "Always Learning, Always Building",
-        "goal": "To merge logic and creativity to create meaningful solutions."
-    }
-```
+I build across developer tooling, machine learning research, and music.
 
+Right now, most of my work sits in three buckets: systems tools for real developer workflows, research on parameter-efficient deep learning in small-data settings, and public notes or papers that document what I am learning as I go.
 
-### ⚡ Fun Facts
+## Current Work
 
-- 💡 Deep thinker, fueled by curiosity (and coffee ☕).
-- 🎸 Planning to rock the stage someday—literally!
-- 🔍 Forever analyzing the “why” behind everything.
+- Building practical CLI tooling and systems software with a focus on ergonomics and real-world use.
+- Researching small-data, parameter-efficient neural architectures for materials-property prediction.
+- Publishing papers, preprints, and open research notes around AI, compression, and adjacent topics.
 
----
+## Selected Work
 
-### 🌱 Currently Exploring
+| Project | What it is |
+| --- | --- |
+| [Munchkin](https://github.com/Rtx09x/munchkin) | Cross-platform multi-account manager for Codex, Gemini, and Qwen CLIs with encrypted storage, fast switching, quota tracking, and Codex load balancing. |
+| [TRIADS](https://github.com/Rtx09x/TRIADS) | Recursive attention architecture for materials-property prediction in small-data regimes, with code, pretrained weights, benchmark results, and a linked preprint. |
+| [YouTube TLDR](https://github.com/Rtx09x/YouTube-TLDR) | Chrome extension that redirects YouTube viewing into an AI-generated summary first to reduce distraction and force a deliberate choice. |
+| [Meow-Mocks](https://github.com/Rtx09x/Meow-Mocks) | Web-based mock test platform driven by JSON exam definitions, with timed exams, review flow, and results analysis. |
+| [CuriosityCache](https://github.com/Rtx09x/CuriosityCache) | Public notebook for research notes on AI, compression, neuroscience, transformers, and related questions. |
 
-- 🚀 **Machine Learning** and its practical applications in **real world**.
-- 👀 **AGI** Research and llm's
-- 🧩 Got Started with Neuroscience and brain.
+## Research
 
+- [TRIADS: Tiny Recursive Information-Attention with Deep Supervision](https://doi.org/10.5281/zenodo.19200579)
+  Preprint on Zenodo, March 24, 2026.
+- [Why "Infinite" Lossless Compression Fails](https://doi.org/10.5281/zenodo.18404002)
+  Paper on Zenodo, 2026.
 
+## Links
 
-```
-# Always learning, always building.
-echo "Happy Coding! 🚀"
-```
+- Portfolio: [rtx09x.github.io](https://rtx09x.github.io/)
+- ORCID: [0009-0004-8521-7627](https://orcid.org/0009-0004-8521-7627)
+- LinkedIn: [rudra-tiwari-b275753b5](https://www.linkedin.com/in/rudra-tiwari-b275753b5/)
+- GitHub: [@Rtx09x](https://github.com/Rtx09x)
+- YouTube: [@rtxmusicx9](https://www.youtube.com/@rtxmusicx9)
+- Spotify: [Artist Page](https://open.spotify.com/artist/2aC7n1BaEOCEgJknWRnLAj)
 
+## Notes
 
-- 😄 Pronouns: He. Him
+- I am interested in first-principles thinking, scientific curiosity, and building things that are concrete enough to test.
+- I do not treat research, engineering, and creative work as separate boxes; most of my best work comes from the overlap.
 
-- Website : https://rtx09x.github.io/
-
-<!---
-Rtx09x/Rtx09x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--
+Rtx09x/Rtx09x is a special repository because its README.md appears on the GitHub profile.
+-->
