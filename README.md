@@ -1,6 +1,7 @@
 # Rudra Tiwari
 
 Independent Researcher | 18 y/o | RC hobbyist
+
 I build across developer tooling, machine learning research, and music.
 
 Right now, most of my work sits in three buckets: systems tools for real developer workflows, research on parameter-efficient deep learning in small-data settings, and public notes or papers that document what I am learning as I go.
