@@ -27,6 +27,8 @@ A High-Precision Deep Learning Architecture for Materials Property Prediction on
 
 [TRIADS](https://github.com/Rtx09x/TRIADS) TRIADS is a novel deep learning architecture built from the ground up for materials property prediction in the small-data regime where conventional deep learning chronically overfits and off-the-shelf models fail to generalize.
 
+Built under [Catalyst Zero Research](https://github.com/Catalyst-Zero-Research).
+
 ## Featured Work
 
 | Project | What it is |
