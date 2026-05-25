@@ -21,6 +21,12 @@ Coding agents should not have to scrape human compiler logs and guess what to do
 
 Built under [TwentySevenLabs](https://github.com/TwentySevenLabs).
 
+### TRIADS : Tiny Recursive Information Attention Deep Supervision
+
+A High-Precision Deep Learning Architecture for Materials Property Prediction on Sparse Datasets
+
+[TRIADS](https://github.com/Rtx09x/TRIADS) TRIADS is a novel deep learning architecture built from the ground up for materials property prediction in the small-data regime where conventional deep learning chronically overfits and off-the-shelf models fail to generalize.
+
 ## Featured Work
 
 | Project | What it is |
