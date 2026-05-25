@@ -40,7 +40,7 @@ Built under [TwentySevenLabs](https://github.com/TwentySevenLabs).
 - [TRIADS: Tiny Recursive Information-Attention with Deep Supervision](https://doi.org/10.5281/zenodo.19200579)
 - [TRIADS model artifacts](https://huggingface.co/Rtx09x/TRIADS)
 - [Why "Infinite" Lossless Compression Fails](https://doi.org/10.5281/zenodo.18404002)
-- Parameter Golf PRs:
+-  OpenAI Parameter Golf PRs:
   - [PR #1694](https://github.com/openai/parameter-golf/pull/1694)
   - [PR #1353](https://github.com/openai/parameter-golf/pull/1353)
 
