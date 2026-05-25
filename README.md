@@ -11,7 +11,7 @@ Most of my work lives around:
 - **Developer tools** - CLIs, browser tools, workflow helpers, and small apps that remove friction.
 - **Builder side quests** - RC planes, PC builds, hardware tinkering, video editing, music, and notes from whatever rabbit hole got too interesting.
 
-## Current Stuff
+## Current Headline
 
 ### ANCP: Agent Native Compiler Protocol
 
@@ -38,9 +38,9 @@ Built under [TwentySevenLabs](https://github.com/TwentySevenLabs).
 ## Research
 
 - [TRIADS: Tiny Recursive Information-Attention with Deep Supervision](https://doi.org/10.5281/zenodo.19200579)
-- [TRIADS model artifacts](https://huggingface.co/Rtx09/TRIADS)
+- [TRIADS model artifacts](https://huggingface.co/Rtx09x/TRIADS)
 - [Why "Infinite" Lossless Compression Fails](https://doi.org/10.5281/zenodo.18404002)
-- OpenAI Parameter Golf PRs:
+- Parameter Golf PRs:
   - [PR #1694](https://github.com/openai/parameter-golf/pull/1694)
   - [PR #1353](https://github.com/openai/parameter-golf/pull/1353)
 
@@ -52,7 +52,7 @@ Built under [TwentySevenLabs](https://github.com/TwentySevenLabs).
 - [Catalyst Zero Research](https://github.com/Catalyst-Zero-Research)  
   Founder/operator. Materials science, scientific ML, and AI-driven computational research.
 
-## Recent Stuff
+## Recent Signals
 
 - Selected for the OpenAI x Outskill AI Builders Hackathon to build Catalyst, a materials-science knowledge graph system.
 - Awarded at the Learning on Graphs New Delhi 2026 Meetup hosted at IIT Delhi.
