@@ -74,7 +74,7 @@ I make songs, edit videos, build RC planes, tinker with hardware, and build PCs.
 - Portfolio: [rtx09x.github.io](https://rtx09x.github.io/)
 - LinkedIn: [rtx09x](https://www.linkedin.com/in/rtx09x/)
 - X: [@Rtx09x](https://x.com/Rtx09x)
-- Hugging Face: [Rtx09](https://huggingface.co/Rtx09)
+- Hugging Face: [Rtx09x](https://huggingface.co/Rtx09x)
 - Kaggle: [rtx09x](https://www.kaggle.com/rtx09x)
 - ORCID: [0009-0004-8521-7627](https://orcid.org/0009-0004-8521-7627)
 - YouTube: [@rtxmusicx9](https://www.youtube.com/@rtxmusicx9)
