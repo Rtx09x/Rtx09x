@@ -11,7 +11,7 @@ Most of my work lives around:
 - **Developer tools** - CLIs, browser tools, workflow helpers, and small apps that remove friction.
 - **Builder side quests** - RC planes, PC builds, hardware tinkering, video editing, music, and notes from whatever rabbit hole got too interesting.
 
-## Current Headline
+## Current Stuff
 
 ### ANCP: Agent Native Compiler Protocol
 
@@ -60,7 +60,7 @@ Built under [Catalyst Zero Research](https://github.com/Catalyst-Zero-Research).
 - [Catalyst Zero Research](https://github.com/Catalyst-Zero-Research)  
   Founder/operator. Materials science, scientific ML, and AI-driven computational research.
 
-## Recent Signals
+## Recent Stuff
 
 - Selected for the OpenAI x Outskill AI Builders Hackathon to build Catalyst, a materials-science knowledge graph system.
 - Awarded at the Learning on Graphs New Delhi 2026 Meetup hosted at IIT Delhi.
