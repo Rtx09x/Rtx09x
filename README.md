@@ -1,6 +1,6 @@
 # Rudra Tiwari
 
-Building agent infrastructure, scientific ML systems, practical tools, and the occasional flying object.
+Building agent infrastructure, scientific ML systems, practical tools, and occasional flying objects 😁.
 
 Hi, I am Rudra. I build things for computers, research things about computers, and sometimes argue with them until they cooperate.
 
