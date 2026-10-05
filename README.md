@@ -51,14 +51,7 @@ Built under [Catalyst Zero Research](https://github.com/Catalyst-Zero-Research).
 -  OpenAI Parameter Golf PRs:
     - [PR #1694](https://github.com/openai/parameter-golf/pull/1694)
     - [PR #1353](https://github.com/openai/parameter-golf/pull/1353)
-
-## Organizations
-
-- [TwentySevenLabs](https://github.com/TwentySevenLabs)  
-  Founder/operator. Agent infrastructure, protocols, developer tools, and practical AI systems.
-
-- [Catalyst Zero Research](https://github.com/Catalyst-Zero-Research)  
-  Founder/operator. Materials science, scientific ML, and AI-driven computational research.
+    - 
 
 ## Recent Stuff
 
