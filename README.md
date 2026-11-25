@@ -36,7 +36,7 @@ Tiny Recursive Information-Attention with Deep Supervision. A recursive, paramet
 
 [Paper](https://doi.org/10.5281/zenodo.19200579) · [Model weights](https://huggingface.co/Rtx09x/TRIADS) · [Matbench submission (PR #360)](https://github.com/materialsproject/matbench/pull/360)
 
-**Computational neurobiology** — Exploratory work with the *Drosophila* connectome, investigating biological neural connectivity through computation.
+**[Fruit Fly Brain](https://github.com/Rtx09x/fruitfly)** — Computational neurobiology and exploratory research on the *Drosophila* (fruit fly) brain connectome, investigating biological neural connectivity through computation.
 
 **[Matbench](https://github.com/materialsproject/matbench/pull/360)** — Contributed a materials-property prediction model for the steels benchmark to the Materials Project's open benchmark.
 
