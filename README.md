@@ -1,17 +1,12 @@
-<p align="center">
-  <img src="assets/piko-live.svg" width="168" alt="Piko, my little companion" />
-</p>
+<img align="left" src="assets/piko-live.svg" width="148" alt="Piko, my little companion" />
 
-<h1 align="center">Rudra Tiwari</h1>
-<p align="center">Research engineer · AI & scientific computing</p>
-<p align="center">
-  <a href="https://rtx09x.github.io/">Website</a> ·
-  <a href="https://www.linkedin.com/in/rtx09x/">LinkedIn</a> ·
-  <a href="https://x.com/Rtx09x">Twitter / X</a> ·
-  <a href="https://www.instagram.com/rtx09x/">Instagram</a> ·
-  <a href="https://huggingface.co/Rtx09x">Hugging Face</a> ·
-  <a href="https://orcid.org/0009-0004-8521-7627">ORCID</a>
-</p>
+# Rudra Tiwari
+
+Research engineer · AI & scientific computing
+
+[Website](https://rtx09x.github.io/) · [LinkedIn](https://www.linkedin.com/in/rtx09x/) · [Twitter / X](https://x.com/Rtx09x) · [Instagram](https://www.instagram.com/rtx09x/) · [Hugging Face](https://huggingface.co/Rtx09x) · [ORCID](https://orcid.org/0009-0004-8521-7627)
+
+<br clear="left" />
 
 **i like making things.**
 
