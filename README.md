@@ -1,6 +1,6 @@
-<img src="assets/piko.svg" width="116" align="right" alt="Piko, my little Catalyst companion" />
-
 # Rudra Tiwari
+
+<p align="center"><img src="assets/piko.svg" width="144" alt="Piko, my little Catalyst companion" /></p>
 
 Building agent infrastructure, scientific ML systems, practical tools, and occasional flying objects 😁.
 
