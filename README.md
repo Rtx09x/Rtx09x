@@ -1,14 +1,10 @@
-<img align="left" src="assets/piko-live.svg" width="148" alt="Piko, my little companion" />
+<img align="left" src="assets/piko-live.svg" width="160" alt="Piko, my little companion" />
 
 <h3>Rudra Tiwari</h3>
-
-Research engineer · AI & scientific computing
-
-[Website](https://rtx09x.github.io/) · [LinkedIn](https://www.linkedin.com/in/rtx09x/) · [Twitter / X](https://x.com/Rtx09x) · [Instagram](https://www.instagram.com/rtx09x/) · [Hugging Face](https://huggingface.co/Rtx09x) · [ORCID](https://orcid.org/0009-0004-8521-7627)
-
-**i like making things.**
-
-Currently kinda obsessed with AI.
+<p>Research engineer · AI &amp; scientific computing<br/>
+<a href="https://rtx09x.github.io/">Website</a> · <a href="https://www.linkedin.com/in/rtx09x/">LinkedIn</a> · <a href="https://x.com/Rtx09x">X</a> · <a href="https://www.instagram.com/rtx09x/">Instagram</a> · <a href="https://huggingface.co/Rtx09x">Hugging Face</a> · <a href="https://orcid.org/0009-0004-8521-7627">ORCID</a></p>
+<p><strong>i like making things.</strong><br/>Currently kinda obsessed with AI.</p>
+<br clear="all"/>
 
 Software, AI, developer tools, research, hardware, RC planes, robotics, games, writing, music, and public professional yapping.
 
