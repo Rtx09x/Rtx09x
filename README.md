@@ -41,7 +41,7 @@ An independent initiative for open, collaborative and AI-assisted research. The 
 
 **[TRIADS](https://github.com/Rtx09x/TRIADS)**
 
-Tiny Recursive Information-Attention with Deep Supervision. A deep learning architecture for materials-property prediction in the small-data regime, evaluated across six Matbench tasks.
+Tiny Recursive Information-Attention with Deep Supervision. A recursive, parameter-efficient deep learning architecture for materials-property prediction in the small-data regime, evaluated across six Matbench tasks.
 
 [Paper](https://doi.org/10.5281/zenodo.19200579) · [Model weights](https://huggingface.co/Rtx09x/TRIADS)
 
@@ -51,13 +51,13 @@ Tiny Recursive Information-Attention with Deep Supervision. A deep learning arch
 
 **OpenAI Parameter Golf** — Experiments in small language model training and compression under a 16 MB constraint. [PR #1694](https://github.com/openai/parameter-golf/pull/1694) · [PR #1353](https://github.com/openai/parameter-golf/pull/1353)
 
-**[Why “Infinite” Lossless Compression Fails](https://doi.org/10.5281/zenodo.18404002)** — A research preprint on information-theoretic limits of lossless compression.
+**[Why “Infinite” Lossless Compression Fails](https://doi.org/10.5281/zenodo.18404002)** — A research paper on information-theoretic limits of lossless compression.
 
 ## A few milestones
 
 - Winner, OpenAI International Codex Hackathon; multiple hackathon wins.
-- Learning on Graphs (LoG) New Delhi 2026 awardee, IIT Delhi.
-- Author of the [TRIADS research preprint](https://doi.org/10.5281/zenodo.19200579).
+- Learning on Graphs (LoG) Conference awardee, New Delhi 2026, IIT Delhi.
+- Author of the [TRIADS paper](https://doi.org/10.5281/zenodo.19200579).
 - Contributor to OpenAI Parameter Golf and Materials Project Matbench.
 - Open-source developer and maintainer.
 
