@@ -43,9 +43,9 @@ An independent initiative for open, collaborative and AI-assisted research. The 
 
 **[TRIADS](https://github.com/Rtx09x/TRIADS)**
 
-Tiny Recursive Information-Attention with Deep Supervision. A recursive, parameter-efficient deep learning architecture for materials-property prediction in the small-data regime, evaluated across six Matbench tasks.
+Tiny Recursive Information-Attention with Deep Supervision. A recursive, parameter-efficient deep learning architecture for materials-property prediction in the small-data regime, evaluated across six Matbench tasks. On the steels benchmark, TRIADS achieved a mean absolute error of 91.20 MPa, outperforming published CrabNet (107.31 MPa) and RF-SCM/Magpie (103.51 MPa) results.
 
-[Paper](https://doi.org/10.5281/zenodo.19200579) · [Model weights](https://huggingface.co/Rtx09x/TRIADS)
+[Paper](https://doi.org/10.5281/zenodo.19200579) · [Model weights](https://huggingface.co/Rtx09x/TRIADS) · [Matbench submission (PR #360)](https://github.com/materialsproject/matbench/pull/360)
 
 **Computational neurobiology** — Exploratory work with the *Drosophila* connectome, investigating biological neural connectivity through computation.
 
