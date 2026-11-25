@@ -1,4 +1,4 @@
-<img align="left" src="assets/piko-live.svg" width="160" alt="Piko, my little companion" />
+<img align="left" src="assets/piko-header.svg" width="202" alt="Piko, my little companion" />
 
 <h3>Rudra Tiwari</h3>
 <p>Research engineer · AI &amp; scientific computing<br/>
