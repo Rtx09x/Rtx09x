@@ -15,11 +15,11 @@ I'm driven by curiosity and the pursuit of new knowledge. I believe AI is openin
 ## What I'm up to
 
 <table>
-<tr><td align="center" width="64"><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Delhi_University%27s_official_logo.png" width="42" alt="University of Delhi" /></td><td><b>University of Delhi</b><br/>First-year student · Bachelor's in Natural Sciences with Electronics &amp; Computer Science</td></tr>
-<tr><td align="center" width="64"><img src="https://www.google.com/s2/favicons?domain=iuac.res.in&amp;sz=64" width="42" alt="IUAC" /></td><td><b>Inter-University Accelerator Centre (IUAC)</b><br/>Student Researcher · Metamaterials</td></tr>
-<tr><td align="center" width="64"><img src="https://github.com/GirlScript.png?size=128" width="42" alt="GirlScript Foundation" /></td><td><b>GirlScript Foundation</b><br/>Delhi Chapter Lead · Developer communities</td></tr>
+<tr><td align="center" width="64"><img src="assets/affiliations/du.svg" width="42" alt="University of Delhi" /></td><td><b>University of Delhi</b><br/>First-year student · Bachelor's in Natural Sciences with Electronics &amp; Computer Science</td></tr>
+<tr><td align="center" width="64"><img src="assets/affiliations/iuac.svg" width="42" alt="IUAC" /></td><td><b>Inter-University Accelerator Centre (IUAC)</b><br/>Student Researcher · Metamaterials</td></tr>
+<tr><td align="center" width="64"><img src="assets/affiliations/girlscript.svg" width="42" alt="GirlScript Foundation" /></td><td><b>GirlScript Foundation</b><br/>Delhi Chapter Lead · Developer communities</td></tr>
 <tr><td align="center" width="64"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Google_Gemini_icon_2025.svg" width="42" alt="Google Gemini" /></td><td><b>Google Gemini</b><br/>Campus Ambassador</td></tr>
-<tr><td align="center" width="64"><img src="assets/spie-logo-light.svg" width="48" alt="SPIE" /></td><td><b>SPIE</b><br/>Student Chapter Member · Optics &amp; Photonics</td></tr>
+<tr><td align="center" width="64"><img src="assets/affiliations/spie.svg" width="42" alt="SPIE" /></td><td><b>SPIE</b><br/>Student Chapter Member · Optics &amp; Photonics</td></tr>
 </table>
 
 ## Research & contributions
