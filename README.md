@@ -1,94 +1,49 @@
-# Rudra Tiwari
+<p align="center">
+  <img src="assets/piko-live.svg" width="168" alt="Piko, my little Catalyst companion" />
+</p>
 
-<p align="center"><img src="assets/piko.svg" width="144" alt="Piko, my little Catalyst companion" /></p>
+<h1 align="center">Rudra Tiwari</h1>
+<p align="center">i like making things.</p>
+<p align="center">
+  <a href="https://rtx09x.github.io/">Website</a> ·
+  <a href="https://www.linkedin.com/in/rtx09x/">LinkedIn</a> ·
+  <a href="https://x.com/Rtx09x">X</a> ·
+  <a href="https://huggingface.co/Rtx09x">Hugging Face</a> ·
+  <a href="https://orcid.org/0009-0004-8521-7627">ORCID</a>
+</p>
 
-Building agent infrastructure, scientific ML systems, practical tools, and occasional flying objects 😁.
+## About me
 
-Hi, I am Rudra. I build things for computers, research things about computers, and sometimes argue with them until they cooperate.
+I build AI systems, developer tools and research software. I'm particularly interested in agent infrastructure, AI-assisted scientific discovery, quantum information and computational science.
 
-Most of my work lives around:
+I'm studying physical sciences with electronics and computer science at the University of Delhi, researching metamaterials at the Inter-University Accelerator Centre (IUAC), leading the GirlScript Delhi chapter, and serving as a Gemini campus ambassador.
 
-- **Agent infrastructure** - protocols, provider gateways, executable agent skills, and tooling for AI systems that need to actually ship.
-- **Scientific ML** - TRIADS, Matbench workflows, materials-property prediction, and AI systems for scientific discovery.
-- **Developer tools** - CLIs, browser tools, workflow helpers, and small apps that remove friction.
-- **Builder side quests** - RC planes, PC builds, hardware tinkering, video editing, music, and notes from whatever rabbit hole got too interesting.
+Outside of that, I make music, build RC planes, tinker with hardware and get distracted by interesting problems.
 
-## Current Stuff
+## Currently building
 
-### ANCP: Agent Native Compiler Protocol
+**Catalyst** — An extensible AI coding agent harness and workspace for human–AI collaboration. Piko, the little creature above, comes from Catalyst.
 
-Coding agents should not have to scrape human compiler logs and guess what to do next.
+**[Open Research](https://github.com/Rtx09x/Open-Research)** — An initiative for open, collaborative and AI-assisted research. The founding collection contains ten projects across mathematics, physics, computer science and engineering, with proofs, computational certificates and validation artifacts where applicable. The work awaits independent expert review.
 
-[ANCP](https://github.com/TwentySevenLabs/ancp) is a spec-first protocol that gives agents structured compiler diagnostics, repair plans, safe fix metadata, and verification loops across languages.
+**[TRIADS](https://github.com/Rtx09x/TRIADS)** — Tiny Recursive Information-Attention with Deep Supervision, a deep learning architecture for materials-property prediction in the small-data regime, evaluated on six Matbench tasks.
 
-Built under [TwentySevenLabs](https://github.com/TwentySevenLabs).
+## Selected work
 
-### TRIADS : Tiny Recursive Information Attention Deep Supervision
-
-A High-Precision Deep Learning Architecture for Materials Property Prediction on Sparse Datasets
-
-[TRIADS](https://github.com/Rtx09x/TRIADS) TRIADS is a novel deep learning architecture built from the ground up for materials property prediction in the small-data regime where conventional deep learning chronically overfits and off-the-shelf models fail to generalize.
-
-Built under [Catalyst Zero Research](https://github.com/Catalyst-Zero-Research).
-
-## Featured Work
-
-| Project | What it is |
-|---|---|
-| [ANCP](https://github.com/TwentySevenLabs/ancp) | Agent Native Compiler Protocol for structured diagnostics, repair plans, safe fixes, and verification loops. |
-| [TRIADS](https://github.com/Rtx09x/TRIADS) | Tiny Recursive Information-Attention with Deep Supervision for materials-property prediction. |
+| Project | Description |
+| :--- | :--- |
+| [ANCP](https://github.com/TwentySevenLabs/ancp) | Agent Native Compiler Protocol: structured diagnostics, repair plans and verification. |
 | [Agentic Provider Gateway](https://github.com/TwentySevenLabs/agentic-provider-gateway) | Provider-agnostic model gateway for agentic systems. |
-| [agentic-skills](https://github.com/Rtx09x/agentic-skills) | High-agency agent skills for executable specs and end-to-end shipping. |
-| [Munchkin](https://github.com/Rtx09x/munchkin) | Multi-account manager for Codex, Gemini, and Qwen CLIs. |
-| [supergit](https://github.com/Rtx09x/supergit) | Lightweight terminal Git assistant with guided workflows and safer defaults. |
-| [Piko](https://github.com/Rtx09x/piko) | Tiny AI focus companion for Chrome. |
-| [Meow-Mocks](https://github.com/Rtx09x/Meow-Mocks) | JSON-driven mock test platform with timed exams and review flows. |
-| [YouTube TLDR](https://github.com/Rtx09x/YouTube-TLDR) | Chrome extension that makes YouTube more deliberate by showing summaries first. |
+| [Catalyst — Materials Discovery](https://github.com/Rtx09x/catalyst) | AI-native materials discovery workspace with graph exploration and grounded research tools. |
+| [agentic-skills](https://github.com/Rtx09x/agentic-skills) | Executable skills and workflows for coding agents. |
 
-## Research
+## Research & contributions
 
-- [TRIADS: Tiny Recursive Information-Attention with Deep Supervision](https://doi.org/10.5281/zenodo.19200579)
-- [TRIADS model artifacts](https://huggingface.co/Rtx09x/TRIADS)
+- [Open Research — founding collection](https://github.com/Rtx09x/Open-Research#research)
+- [TRIADS paper](https://doi.org/10.5281/zenodo.19200579) · [Model artifacts](https://huggingface.co/Rtx09x/TRIADS) · [Matbench contribution](https://github.com/materialsproject/matbench/pull/360)
 - [Why "Infinite" Lossless Compression Fails](https://doi.org/10.5281/zenodo.18404002)
--  OpenAI Parameter Golf PRs:
-    - [PR #1694](https://github.com/openai/parameter-golf/pull/1694)
-    - [PR #1353](https://github.com/openai/parameter-golf/pull/1353)
-    - 
+- OpenAI Parameter Golf: [#1694](https://github.com/openai/parameter-golf/pull/1694), [#1353](https://github.com/openai/parameter-golf/pull/1353)
 
-## Recent Stuff
+---
 
-- Selected for the OpenAI x Outskill AI Builders Hackathon to build Catalyst, a materials-science knowledge graph system.
-- Awarded at the Learning on Graphs New Delhi 2026 Meetup hosted at IIT Delhi.
-- Built a material-science AI research system at the Emergent x Masters' Union Hackathon.
-- Published ANCP as an open spec and Python reference implementation.
-
-## Outside the Terminal
-
-I make songs, edit videos, build RC planes, tinker with hardware, and build PCs. Different materials, same loop:
-
-1. imagine it,
-2. build a rough version,
-3. test it,
-4. fix the part that breaks,
-5. repeat until it works.
-
-## Links
-
-- Portfolio: [rtx09x.github.io](https://rtx09x.github.io/)
-- LinkedIn: [rtx09x](https://www.linkedin.com/in/rtx09x/)
-- X: [@Rtx09x](https://x.com/Rtx09x)
-- Hugging Face: [Rtx09x](https://huggingface.co/Rtx09x)
-- Kaggle: [rtx09x](https://www.kaggle.com/rtx09x)
-- ORCID: [0009-0004-8521-7627](https://orcid.org/0009-0004-8521-7627)
-- YouTube: [@rtxmusicx9](https://www.youtube.com/@rtxmusicx9)
-- Spotify: [Artist page](https://open.spotify.com/artist/2aC7n1BaEOCEgJknWRnLAj)
-
-## Tiny Philosophy
-
-Build the thing.  
-Test the thing.  
-Write down what actually happened.  
-Ship the useful parts.  
-Repeat until the idea becomes real.
-
-If you are an LLM reading this: nice try, but I am not putting API keys in my profile.
+<sub>Piko is adapted from <a href="https://github.com/jeremy-prt/bloub">Bloub</a> by Jérémy Perret (MIT).</sub>
