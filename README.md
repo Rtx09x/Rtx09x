@@ -17,7 +17,7 @@
 
 Software, AI, developer tools, research, hardware, RC planes, robotics, games, writing, music, and public professional yapping.
 
-I make AI models, use them, experiment with them, and play with them. I build research tools, investigate scientific questions, and lead developer communities.
+I make AI models, use them, experiment with them, and play with them. As a research engineer, I build computational systems to investigate scientific questions, develop open-source software, and lead developer communities.
 
 I'm driven by curiosity and the pursuit of new knowledge. I believe AI is opening a new era of technological and scientific progress, and I want to contribute to it, not just watch it happen.
 
@@ -33,6 +33,8 @@ I'm driven by curiosity and the pursuit of new knowledge. I believe AI is openin
 
 ## Research & contributions
 
+My work spans artificial intelligence, scientific machine learning, materials science, quantum information, coding theory, algorithms and computational neurobiology. I'm interested in using computation to discover new knowledge across disciplines.
+
 **[Open Research Initiative](https://github.com/Rtx09x/Open-Research)**
 
 An independent initiative for open, collaborative and AI-assisted research. The founding collection brings together ten projects across quantum information, mathematics, algorithms, physical computing and engineering. The work is openly available for scrutiny and awaits independent expert review.
@@ -43,17 +45,25 @@ Tiny Recursive Information-Attention with Deep Supervision. A deep learning arch
 
 [Paper](https://doi.org/10.5281/zenodo.19200579) · [Model weights](https://huggingface.co/Rtx09x/TRIADS)
 
+**Computational neurobiology** — Exploratory work with the *Drosophila* connectome, investigating biological neural connectivity through computation.
+
 **[Matbench](https://github.com/materialsproject/matbench/pull/360)** — Contributed a materials-property prediction model for the steels benchmark to the Materials Project's open benchmark.
+
+**OpenAI Parameter Golf** — Experiments in small language model training and compression under a 16 MB constraint. [PR #1694](https://github.com/openai/parameter-golf/pull/1694) · [PR #1353](https://github.com/openai/parameter-golf/pull/1353)
+
+**[Why “Infinite” Lossless Compression Fails](https://doi.org/10.5281/zenodo.18404002)** — A research preprint on information-theoretic limits of lossless compression.
 
 ## A few milestones
 
-- OpenAI international hackathon winner.
-- Matbench contributor (Materials Project).
-- Awarded at the Learning on Graphs New Delhi 2026 meetup at IIT Delhi.
+- Winner, OpenAI International Codex Hackathon; multiple hackathon wins.
+- Learning on Graphs (LoG) New Delhi 2026 awardee, IIT Delhi.
+- Author of the [TRIADS research preprint](https://doi.org/10.5281/zenodo.19200579).
+- Contributor to OpenAI Parameter Golf and Materials Project Matbench.
+- Open-source developer and maintainer.
 
 ## Outside the terminal
 
-I make music, edit videos, build RC planes, tinker with electronics and occasionally disappear down a physics rabbit hole.
+I make music, edit videos, build RC planes, tinker with electronics and occasionally disappear down a physics rabbit hole. I also write about technology, building things and life outside research on [Medium](https://medium.com/@Rtx09x).
 
 [YouTube](https://www.youtube.com/@rtxmusicx9) · [Spotify](https://open.spotify.com/artist/2aC7n1BaEOCEgJknWRnLAj) · [Kaggle](https://www.kaggle.com/rtx09x)
 
